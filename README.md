@@ -16,8 +16,8 @@ Tenho 21 anos, moro em Belém/PA e sou iniciante no universo da programação e 
 
 
 
-<[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagottf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/)](https://github.com//github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagottf&layout&layout=compact&langs_count=7&theme=dark)](https://github.com/Thiagottf/github-readme-stats)
+<[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagottf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/)](https://github.com//github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagottf&layout&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Thiagottf/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ttf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
