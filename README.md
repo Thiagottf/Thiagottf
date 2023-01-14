@@ -4,7 +4,7 @@ Tenho 21 anos, moro em Belém/PA e sou iniciante no universo da programação e 
 
 - 🔭Procurando um trabalho
 - 📚 Cursando Engenharia da computação 
-- 🌱 Estudando TypeScrypt e Python
+- 🌱 Estudando Javascript e Python
 
 
 <p align="center">
