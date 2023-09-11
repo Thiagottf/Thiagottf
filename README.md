@@ -2,7 +2,7 @@
 
 Tenho 21 anos, moro em Belém/PA e sou iniciante no universo da programação e faço faculdade de Eng. Da Computação no [Cesupa](https://www.cesupa.br/)
 
-- 🔭Procurando um trabalho
+- 🔭Trabalhando em meus projetos academicos e pessoais
 - 📚 Cursando Engenharia da computação 
 - 🌱 Estudando Javascript e Python
 
